@@ -1,4 +1,4 @@
-# FakeNewsDetection
+# Fake News Detection
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/78891081/232193658-c31efc36-71b4-4f28-8a25-e9665e163468.jpg" width = "600" height = "300" >
